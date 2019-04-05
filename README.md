@@ -1,6 +1,8 @@
 # Testbed 360
 A Testbed for Subjective Evaluation of Omnidirectional Visual Content
 
+The Android version of the testbed can be found here: https://github.com/mmspg/testbed360-android.
+
 If you use this software in your research please cite our paper:
 ```
 @inproceedings{upenik_testbed_2016,
